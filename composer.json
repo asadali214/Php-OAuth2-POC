@@ -1,5 +1,6 @@
 {
     "name": "asadali214/mdnotesccg",
+    "version": "1.0.0",
     "description": "API for Markdown Notes app.",
     "type": "library",
     "keywords": [
